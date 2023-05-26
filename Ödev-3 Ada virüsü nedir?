@@ -1,0 +1,25 @@
+
+Ada Virüsü Nedir ?
+Ada virüsü, Ada programlama dilinde yazılmış olan bir virüstür. 
+Ada virüsü, Ada programlarını enfekte ederek yayılan zararlı bir yazılımdır. 
+Enfekte ettiği Ada programlarını kopyalayarak yayılır ve genellikle bu programların çalışmasını bozar veya verileri etkiler. 
+Ada virüsü, dosya sistemi üzerinde bulaştığı programları arar ve bunları enfekte eder. Ada virüsleri genellikle kötü niyetli kişiler tarafından oluşturulur ve zararlı amaçlar için kullanılır.
+Bilgisayarlarda veri kaybına, sistem çökmesine veya hassas bilgilerin sızmasına neden olabilirler. Ada virüsleri, günümüzde daha az yaygın olan bir virüs türüdür. 
+
+Ada Virüsü Nasıl Çalışır ?
+İşleyişleri genel olarak şu adımları içerir:
+
+1.	Enfeksiyon Yolu: Ada virüsleri, yayılmak için farklı yöntemler kullanabilir. Örneğin, bulaştığı Ada programlarının kaynak kodlarını değiştirerek veya Ada programlarının derlenmiş çalıştırılabilir dosyalarını enfekte ederek yayılabilir.
+2.	Yayılma: Ada virüsleri, enfekte ettiği Ada programlarının kopyalarını oluşturarak yayılır. Bu kopyalar genellikle aynı bilgisayar üzerinde veya ağ üzerinde bulunan diğer dosyalara veya sistemlere bulaşabilir.
+3.	Enfeksiyon Süreci: Ada virüsleri, enfekte ettikleri Ada programlarının içine zararlı kodlar ekleyerek veya mevcut kodları değiştirerek çalışır. Bu şekilde, virüsün zararlı etkileri gerçekleşir. Örneğin, veri kaybı, sistem çökmesi, yetkisiz erişim gibi zararlı eylemler yapabilir.
+4.	Gizlenme: Ada virüsleri, enfeksiyonlarını gizlemek için bazı yöntemler kullanabilir. Örneğin, dosya boyutlarını değiştirerek veya kaynak kodlarını karıştırarak tespit edilmeyi zorlaştırabilir.
+5.	Aktivasyon: Enfekte edilen Ada programları çalıştırıldığında veya belirli koşullar gerçekleştiğinde Ada virüsü aktive olur. Bu durumda, virüsün zararlı etkileri ortaya çıkar ve enfekte edilen programın normal işleyişini bozar.
+
+
+Örnek: Wabbit Virüsü
+"Wabbit" bilgisayar virüsü, 1970'lerin sonlarından itibaren ortaya çıkan ve 1980'lerin başında popüler hale gelen bir tür virüs olarak bilinir. Wabbit, genellikle kendini kopyalayan ve yayılan bir virüs değildir.
+Wabbit, genellikle matematiksel bir döngü veya tekrarlı bir işlem içeren bir programdır. Örneğin, sonsuz döngüler veya kaynak tüketen hesaplamalar gibi işlemleri yürüterek bilgisayarın performansını düşürebilir veya hatta çökmesine neden olabilir. Wabbit virüsü, sistem kaynaklarını tüketme veya işlem gücünü boşa harcama gibi yollarla kullanıcıları rahatsız etmek veya zarar vermek amacıyla oluşturulmuştur.
+
+Wabbit virüsü genellikle bilgisayara bir dosya yoluyla veya başka bir programın içinde dahil edilerek bulaşır. Kullanıcı, virüslü bir dosyayı açtığında veya çalıştırdığında Wabbit aktif hale gelir. Virüs, genellikle işletim sistemi ve donanım kaynaklarını aşırı yükleyen veya tüketen işlemleri yürüterek zararlı etkisini gerçekleştirir.
+
+
