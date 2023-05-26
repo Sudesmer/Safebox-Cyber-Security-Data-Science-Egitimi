@@ -1,0 +1,7 @@
+SQL SORGU ÖRNEĞİ : 
+
+UPDATE customers SET status = 'VIP' WHERE total_orders > 10 AND total_revenue > 5000; 
+
+Bu örnekte, "customers" adlı bir tablo varsayılmıştır. Tabloda müşterilere ilişkin bilgiler (müşteri kimliği, toplam sipariş sayısı, toplam gelir vb.) bulunmaktadır. Bu SQL sorgusu, belirli bir koşulu sağlayan müşterilerin durumunu günceller.
+Sorgu, müşterilerin "total_orders" (toplam sipariş sayısı) değerinin 10'dan büyük ve "total_revenue" (toplam gelir) değerinin 5000'den büyük olduğu durumları seçer. Ardından, bu müşterilerin "status" (durum) alanını "VIP" olarak günceller.
+Bu örnekteki veri işleme yaklaşımı, verilere dayalı bir koşulu sağlayan kayıtları güncellemek için kullanılır. Bu örnekte, belirli bir işlemi gerçekleştirmek için bir UPDATE ifadesi kullanılmıştır. Bu tür bir yaklaşımı, müşteri segmentasyonu, özel teklifler veya indirimler gibi senaryolarda kullanabilirsiniz.
